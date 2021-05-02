@@ -1,0 +1,1 @@
+This was a quick test at counting peers from `/proc/net/tcp` (`netstat`), but this information is better obtained directly from Chia, which is what [chia_exporter](https://github.com/retzkek/chia_exporter) does; use that instead.
